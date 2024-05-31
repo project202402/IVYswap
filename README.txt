@@ -1,7 +1,7 @@
 IVYswap-opbnb
 Introduction and Statement of IVYswap-opbnb
 IVYswap-opbnb is a decentralized exchange on the opbnb blockchain（IVYswap-opbnb-DEX for opbnb）.
-IVYswap-opbnb website:https://project202402.github.io/IVYswap/#/
+IVYswap-opbnb website:https://project202402.github.io/IVYswap/#/swap
 IVYswap-opbnb uses IVYT as the platform management token.
 The total number of IVYT tokens is 2,000,000,000,000.
 The IVY token address is 0x6E986912172eb0722315990e6Bd4Dfb88De4Fa97
